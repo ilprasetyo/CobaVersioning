@@ -10,7 +10,7 @@ namespace CobaVersioning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ini Branch Punya Naufal");
+            Console.WriteLine("Ini Branch Punya Naufal ...");
         }
     }
 }
